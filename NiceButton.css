@@ -1,20 +1,23 @@
 p{
-     font-size:30px;
-     padding: 20px 20px 20px 20px;
      display: inline;
+     font-size:30px;
+     background: blue;
+     padding: 20px 20px 20px 20px;
      width: 200px;
-     background: red;
 }
 ul{
      display: inline;
-     background: red;
+     background: blue;
 }
 h1{
-     margin-left: 1800px;
      display: inline-block;
+     margin-left: 18px;
 }
 header{
      padding: 0 0 0 0;
      margin:-8px -8px 0 -8px;
-     background:  red;
+     background:  blue;
+}
+body{
+     background-color: black;
 }

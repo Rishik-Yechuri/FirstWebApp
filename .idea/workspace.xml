@@ -23,7 +23,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NiceButton.css" beforeDir="false" afterPath="$PROJECT_DIR$/NiceButton.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PetrolStore.html" beforeDir="false" afterPath="$PROJECT_DIR$/PetrolStore.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PetrolStoreCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/PetrolStoreCSS.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -88,7 +88,9 @@
       <workItem from="1606702207298" duration="466000" />
       <workItem from="1606702791095" duration="1787000" />
       <workItem from="1606704591142" duration="134000" />
-      <workItem from="1606704734944" duration="553000" />
+      <workItem from="1606704734944" duration="880000" />
+      <workItem from="1606706182656" duration="501000" />
+      <workItem from="1606714813708" duration="850000" />
     </task>
     <servers />
   </component>
@@ -116,6 +118,10 @@
       <screen x="0" y="0" width="1920" height="1052" />
     </state>
     <state x="693" y="275" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1052@0.0.1920.1052" timestamp="1605836035307" />
+    <state x="738" y="273" width="424" height="520" key="FileChooserDialogImpl" timestamp="1606705579902">
+      <screen x="0" y="0" width="1920" height="1052" />
+    </state>
+    <state x="738" y="273" width="424" height="520" key="FileChooserDialogImpl/0.0.1920.1052@0.0.1920.1052" timestamp="1606705579902" />
     <state x="449" y="161" width="1022" height="737" key="SettingsEditor" timestamp="1606630711375">
       <screen x="0" y="0" width="1920" height="1052" />
     </state>
