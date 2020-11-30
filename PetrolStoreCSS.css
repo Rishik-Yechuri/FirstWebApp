@@ -5,10 +5,16 @@ h1{
 h2{
     margin-left: 740px;
 }
+p{
+    margin-left: 500px;
+}
 .wrap{
     white-space: pre-line;
     box-decoration-break: clone;
-   margin-left: 630px;
+    margin-left: 630px;
+}
+h2{
+    margin-left: 1px;
 }
 #passion{
     margin-left: 790px;

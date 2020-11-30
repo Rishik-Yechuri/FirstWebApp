@@ -20,14 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbe41adb-de79-4ea8-ad44-f08a299460f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DieselCSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DieselStore.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JetFuel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JetStyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PetrolStore.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PetrolStoreCSS.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NiceButton.css" beforeDir="false" afterPath="$PROJECT_DIR$/NiceButton.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PetrolStore.html" beforeDir="false" afterPath="$PROJECT_DIR$/PetrolStore.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PetrolStoreCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/PetrolStoreCSS.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +84,11 @@
       <workItem from="1606611523929" duration="4958000" />
       <workItem from="1606621298506" duration="910000" />
       <workItem from="1606628370140" duration="109000" />
-      <workItem from="1606628791540" duration="3106000" />
+      <workItem from="1606628791540" duration="3498000" />
+      <workItem from="1606702207298" duration="466000" />
+      <workItem from="1606702791095" duration="1787000" />
+      <workItem from="1606704591142" duration="134000" />
+      <workItem from="1606704734944" duration="553000" />
     </task>
     <servers />
   </component>
