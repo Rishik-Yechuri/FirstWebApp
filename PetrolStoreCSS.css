@@ -1,5 +1,6 @@
 h1{
     margin-left: 715px;
+    color: whitesmoke;
 }
 
 h2{
@@ -15,10 +16,20 @@ p{
 }
 h2{
     margin-left: 1px;
+    color: whitesmoke;
+}
+t{
+    color: whitesmoke;
+}
+body{
+    background-color:#323232;
 }
 #passion{
     margin-left: 790px;
 }
 #performance{
     margin-left: 850px;
+}
+#environment{
+    margin-left: 740px;
 }

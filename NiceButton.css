@@ -4,14 +4,17 @@ p{
      background: blue;
      padding: 20px 20px 20px 20px;
      width: 200px;
+     color: whitesmoke;
 }
 ul{
      display: inline;
      background: blue;
+     color: whitesmoke;
 }
 h1{
      display: inline-block;
      margin-left: 18px;
+     color: whitesmoke;
 }
 header{
      padding: 0 0 0 0;
@@ -19,5 +22,5 @@ header{
      background:  blue;
 }
 body{
-     background-color: black;
+     background-color:#323232;
 }

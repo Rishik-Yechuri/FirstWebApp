@@ -1,11 +1,18 @@
 h1{
     margin-left: 715px;
+    color: whitesmoke;
 }
 
 h2{
     margin-left: 840px;
+    color: whitesmoke;
 }
-
+body{
+    background-color:#323232;
+}
+t{
+    color: whitesmoke;
+}
 .wrap{
     white-space: pre-line;
     box-decoration-break: clone;
